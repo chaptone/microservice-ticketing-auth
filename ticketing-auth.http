@@ -5,3 +5,7 @@ Content-Type: application/json
   "email": "test@test.com",
   "password": "12321321"
 }
+
+###
+
+GET ticketing.dev/api/users/signup/dsfdsf
